@@ -1,6 +1,6 @@
 # INA219_Logger
 ```
-python ina219_logger.py [duration sample_time_interval]
+python3 ina219_logger.py [duration sample_time_interval]
 
 sample duration in hours -- (36s)
 sample timer interval in seconds -- (10s)
